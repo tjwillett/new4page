@@ -1,0 +1,122 @@
+@charset "UTF-8";
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;}
+	li a:hover {
+  background-color: #111;color:aquamarine
+}
+	.active {
+  background-color: #04AA6D;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+	
+
+body {
+	margin-top:100px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 100px			;
+	background-color:lightgrey
+}
+	p{    font-family: 'proxima nova';font-size: 16px;
+	text-align: center}
+	p.clear{clear:right}
+h2 {
+    background-color: #A3D9D3;
+    text-align: center;
+    font-family: 'didot';font-style: italic;
+}
+	h1{font-style: italic;
+	font-family:'didot';background-color:#A3D9D3;text-align: center;margin-left: 100px }
+	
+	
+	h3{font-style: italic;
+		text-align: center; font-family: 'Proxima Nova';background-color: #9E654C; display:inline; center;color:lightgrey
+	}
+	section{background-color:darkgrey;
+	color: black}
+	
+	header{
+    padding: 70px;
+    background-color:#A3D9D3;
+    
+}
+	
+	.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.button1 {
+  background-color:#030303;
+  border:#FFFFFF;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+	margin-left: 25px
+}
+	.button1:hover{background-color:white;
+		color:black}
+	.button2 {
+  background-color:#030303;
+  border:#FFFFFF;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+		
+}
+	.button2:hover{background-color:white;
+		color:black}
+		.button3 {
+  background-color:#030303;
+  border:#FFFFFF;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 30px 2px;
+  cursor: pointer;
+		
+
+}
+	.button3:hover{background-color:white;
+		color:black}
+	h{font-style: italic;
+	font-family:'didot';background-color:#A3D9D3;text-align: center;font-size: 25px }
+	
+	h4{text-align: center;font-family: 'didot';font-style: italic}
+	
+	.left {
+		float: left;
+		padding-right: 50px
+	}
+	.img{float:right;}
+	a {color:blue}
+	a:hover{color:purple;border-color: black}
